@@ -1,0 +1,16 @@
+Hello admin of this server.
+I am JUN#7768, the maker of this bot.
+If you have already invited the bot, you are agreeing this term of agreement.
+
+I) The maker of this bot(the maker) can read the report of the reports which people sent.
+   The reporting system is in the bot to make people report when the things in my bot doesn't work. Unless they put the their private informations, the maker cannot read any users private informations in the server.
+   Also, the maker will not read or use the informations by hacking the server through bot.
+II) The bot can read every words they are talking about.
+   The bot should read the people to manage the messages.
+III) The bot should be invited in administrator.
+   The bot should manage the server by kicking or banning, so admin have to invite the bot with administrator.
+IV) If the bot has urgent situations, the maker can join through the server.
+   This will happen only when users report with the channel name and link.
+
+If you are reading this sentence, the bot will judge that the admin of this server has agreed of this terms of agreement.
+You can simply ban or kick this bot by disagreeing.
